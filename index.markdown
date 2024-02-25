@@ -6,16 +6,13 @@ layout: default
 title: Misceláneas
 ---
 
-# Apuntes
+# Apuntes de deontología
 
-Hola soy un párrafo. 
+Hablamos de Ética
 
-[Link a un pdf](ejemplo.pdf).
+### [Introducción a la ética](recursos/Unidad.pdf)
 
-<a href="recursos/ejemplo.pdf">
-<img src="imagenes/logo_pdf.png" width="35pt"/>
-</a>
+### [Valores](recursos/Unidad b.pdf)
 
----
+### [Derechos Humanos](recursos/Unidad c.pdf)
 
-Hola soy otro párrafo.
