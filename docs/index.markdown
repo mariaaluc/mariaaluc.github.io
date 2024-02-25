@@ -6,7 +6,7 @@ layout: default
 title: Misceláneas
 ---
 
-# Sección 1
+# Apuntes
 
 Hola soy un párrafo. 
 
