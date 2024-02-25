@@ -3,9 +3,19 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Apuntes
+title: Misceláneas
 ---
+
+# Sección 1
 
 Hola soy un párrafo. 
 
 [Link a un pdf](ejemplo.pdf).
+
+<a href="recursos/ejemplo.pdf">
+<img src="imagenes/logo_pdf.png" width="35pt"/>
+</a>
+
+---
+
+Hola soy otro párrafo.
